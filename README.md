@@ -1,9 +1,9 @@
+# Table of Contents
+1. [Skills](#skills)
+2. [Projects : Checklist](#checklist)
+3. [Projects : Chat](#chat)
+
 # Skills
-
-
-[Skills 2](#skills2)
-
-[link 2](#2)
 
 * Libraries
     * Redux : redux, react-redux, redux-thunk, redux-logger, redux-devtools
@@ -75,12 +75,83 @@
     
 * Github
     * Create a repo, Fork a repo, branch merge
+    
+* * *    
 
-# Skills2
-[Skills](#skills)
+# Checklist
 
-# 2
-[link to Skills](#skills)
+* Summary
+    * made with React Native, Redux.
+    * Focus
+        * coded with pureRN
+        * Redux : separate Smart component, presentational component
+        * Flatten objects : able to convert and restore
+        * Reduce computation with memoize pattern.
 
-# 3
-[link to Skills](#skills)
+* Libraries
+    * Redux : redux, react-redux, redux-thunk, redux-logger, redux-devtools
+    * Data : reselect, normalizr, lodash
+    * Debugger : chrome(default)
+    * UI : react-native-elements
+
+* Data Structure
+    * convert to flatten objects and able to restore.
+    * immutable data on needed state.
+    * shallow copy, deep copy, shallow merge.
+
+* JavaScript(used skills, summary)
+    * ES6
+        * Spread operator, Rest params
+        * Destruccturing
+        * Promise
+        * arrow function
+        * tail call
+        * Template literals
+        * Dynamic key of object
+    * ES7
+        * Object spread
+        * Async functions
+    * Etc
+        * shallow copy
+        * deep copy
+        * shallow merge
+
+* Redux(used skills, summary)
+    * Multi reducers with combine reducer
+    * Middleware : redux-thunk, redux-logger
+    * Normalizing state shape
+    * Updating normalized data
+
+* React Native(used skills, summary)
+    * key points
+    * Reusable Components : presentational component
+    * Understanding on LifeCycle
+    * Code without jsx
+    * UI design with Flexbox
+    * setState with updater function
+    * controlled components
+    * Navigate
+        * Navigate with pureRN.
+        * Prevent navigate when editing
+            * including tab navigate.
+        * Separate Each navigate by Tabs.
+        * Double tap to navigate first page of each tab.
+    * UI
+        * with react-native-elements
+        * Modal toggle customized.
+        * Modal toggle area customized.
+    * Etc
+        * Multi Edit
+            * Able to edit same data on different tab.
+            * After deleted, page would be unmounted.
+
+* Design Pattern(used skills, summary)
+    * Self defining function.
+    * call back pattern
+    * module pattern
+    * delegation pattern
+    * proxy pattern
+    * curring pattern
+    
+<hr />
+# Chat
