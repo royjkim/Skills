@@ -1,4 +1,10 @@
 # Skills
+
+
+[Skills 2](#skills2)
+
+[link 2](#2)
+
 * Libraries
     * Redux : redux, react-redux, redux-thunk, redux-logger, redux-devtools
     * Data : reselect, normalizr, lodash
@@ -69,3 +75,12 @@
     
 * Github
     * Create a repo, Fork a repo, branch merge
+
+# Skills2
+[Skills](#skills)
+
+# 2
+[link to Skills](#skills)
+
+# 3
+[link to Skills](#skills)
