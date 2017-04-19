@@ -153,5 +153,6 @@
     * proxy pattern
     * curring pattern
     
-<hr />
+* * *
+
 # Chat
