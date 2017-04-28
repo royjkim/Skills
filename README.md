@@ -1,12 +1,12 @@
 # Table of Contents
 1. [Skills](#skills)
 2. [Projects : Checklist](#checklist)
-3. [Projects : Chat](#chat)
+3. [Projects : Chat App](#chat)
 
 # Skills
 
 * Libraries
-    * Redux : redux, react-redux, redux-thunk, redux-logger, redux-devtools
+    * Redux : redux, react-redux, redux-thunk, redux-logger, remote-redux-devtools
     * Data : reselect, normalizr, lodash
     * Debugger : chrome(default), reactotron
     * UI : react-native-elements
@@ -17,31 +17,27 @@
         * UI : NativeBase, shoutem
         * Data : immutable.js, typescript
         * Etc : react-native-background-timer, react-native-navbar
-    * Focus
-        * coded with pureRN
-        * Redux : separate Smart component, presentational component
-        * Flatten objects : able to convert and restore
-        * Reduce computation with memoize pattern.
-        
+* Focus
+    * coded with pureRN
+    * Redux : separate Smart component, presentational component
+    * Flatten objects : able to convert and restore
+    * Reduce computation with memoize pattern
 * Design Pattern
-    * Self defining function.
+    * Self defining function
     * call back pattern
     * module pattern
     * delegation pattern
     * proxy pattern
     * curring pattern
-    
 * Data Structure
     * convert to flatten objects and able to restore
     * make able to undo
-    
 * Redux
     * Multi reducers with combine reducer
-    * Middleware : redux-thunk, redux-logger
+    * Compose and Middleware : redux-thunk, redux-logger
     * BindActionCreators
     * Normalizing state shape
     * Updating normalized data
-    
 * React Native
     * Reusable Components : presentational component
     * Understanding on LifeCycle
@@ -50,11 +46,10 @@
     * setState with updater function
     * controlled components
     * Reviews : Higher-Order Components
-    
 * JavaScript
     * ES6
         * Spread operator, Rest params
-        * Destruccturing
+        * Destructuring
         * Promise
         * arrow function
         * tail call
@@ -65,14 +60,11 @@
         * Async functions
     * Etc
         * shallow copy, deep copy, shallow merge
-        
 * Firebase
     * database
     * authentication
-    
 * IDE
     * Atom(nuclide), Expo XDE
-    
 * Github
     * Create a repo, Fork a repo, branch merge
     
@@ -87,22 +79,19 @@
         * Redux : separate Smart component, presentational component
         * Flatten objects : able to convert and restore
         * Reduce computation with memoize pattern.
-
 * Libraries
-    * Redux : redux, react-redux, redux-thunk, redux-logger, redux-devtools
+    * Redux : redux, react-redux, redux-thunk, redux-logger, remote-redux-devtools
     * Data : reselect, normalizr, lodash
     * Debugger : chrome(default)
     * UI : react-native-elements
-
 * Data Structure
     * convert to flatten objects and able to restore.
     * immutable data on needed state.
     * shallow copy, deep copy, shallow merge.
-
 * JavaScript(used skills, summary)
     * ES6
         * Spread operator, Rest params
-        * Destruccturing
+        * Destructuring
         * Promise
         * arrow function
         * tail call
@@ -115,21 +104,20 @@
         * shallow copy
         * deep copy
         * shallow merge
-
 * Redux(used skills, summary)
     * Multi reducers with combine reducer
-    * Middleware : redux-thunk, redux-logger
+    * Compose and Middleware : redux-thunk, redux-logger
     * Normalizing state shape
     * Updating normalized data
-
+    * Transfer data with navigator and redux
 * React Native(used skills, summary)
     * key points
-    * Reusable Components : presentational component
-    * Understanding on LifeCycle
-    * Code without jsx
-    * UI design with Flexbox
-    * setState with updater function
-    * controlled components
+        * Reusable Components : presentational component
+        * Understanding on LifeCycle
+        * Code without jsx
+        * UI design with Flexbox
+        * setState with updater function
+        * controlled components
     * Navigate
         * Navigate with pureRN.
         * Prevent navigate when editing
@@ -144,7 +132,6 @@
         * Multi Edit
             * Able to edit same data on different tab.
             * After deleted, page would be unmounted.
-
 * Design Pattern(used skills, summary)
     * Self defining function.
     * call back pattern
@@ -152,7 +139,80 @@
     * delegation pattern
     * proxy pattern
     * curring pattern
+    * encapsulation
+    
     
 * * *
 
 # Chat
+
+* Summary
+    * made with React Native, Redux, Firebase
+    * Focus
+        * coded with pureRN
+        * Redux : separate Smart component, presentational component
+        * use unique key made by Firebase as own unique key.
+        * disable shallow render to realtime update
+* Libraries
+    * Redux : redux, react-redux, redux-thunk, redux-logger, remote-redux-devtools
+    * Data : load from firebase
+    * Debugger : chrome(default), remote-redux-devtools
+    * UI : @shoutem
+    * Firebase
+* Data Structure
+    * each unique id is assigned from firebase’s unique key.
+    * shallow copy, shallow merge.
+* Firebase
+    * for better fast loading use batch loading at initial loading. and realtime update at other case.
+* On Expo
+    * differences
+        * speed
+        * UI
+            * use 'Expo loading’ instead of ‘ActivityIndicator’.
+            * user custom Fonts of Expo
+        * Debugger
+            * remote-redux-devtools
+* JavaScript(used skills, summary)
+    * ES6
+        * Spread operator, Rest params
+        * Destructuring
+        * Promise
+        * arrow function
+        * tail call
+        * Template literals
+        * Dynamic key of object
+    * ES7
+        * Object spread
+    * Etc
+        * shallow copy
+        * shallow merge
+* Redux(used skills, summary)
+    * Compose and Middleware : redux-thunk
+    * Not Shallow render(react-redux)
+* React Native(used skills, summary)
+    * key points
+        * Calculate View size depends on devices
+        * Event listener
+        * Keyboard
+        * KeyboardAvodingView
+        * Make own similar to KeyboardAvodingView.
+        * According to Keyboard status(show, hide), scroll to last position at chat and user list.
+        * Understanding on LifeCycle
+        * UI design with Flexbox
+        * minimize the use of setState and controlled components to speed up
+    * Navigate
+        * Navigate with pureRN.
+        * Prevent swipe back.
+        * Transfer data with navigator and redux.
+    * UI
+        * with react-native-elements
+        * Modal toggle customized.
+        * Modal toggle area customized.
+* Design Pattern(used skills, summary)
+    * Self defining function.
+    * call back pattern
+    * module pattern
+    * delegation pattern
+    * proxy pattern
+    * curring pattern
+    * encapsulation pattern
