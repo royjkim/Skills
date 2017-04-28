@@ -72,6 +72,8 @@
 
 # Checklist
 
+* Open App by Expo(Link)[https://expo.io/@roykim/checklist-expo]
+
 * Summary
     * made with React Native, Redux.
     * Focus
@@ -87,7 +89,11 @@
 * Data Structure
     * convert to flatten objects and able to restore.
     * immutable data on needed state.
-    * shallow copy, deep copy, shallow merge.
+    * shallow copy, deep copy, shallow merge.    
+* On Expo
+    * differences
+        * speed
+        * UI : navigation position
 * JavaScript(used skills, summary)
     * ES6
         * Spread operator, Rest params
@@ -145,6 +151,8 @@
 * * *
 
 # Chat
+
+* Open App by Expo(Link)[https://expo.io/@roykim/chatdemo-expo]
 
 * Summary
     * made with React Native, Redux, Firebase
