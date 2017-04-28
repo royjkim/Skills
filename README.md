@@ -72,6 +72,8 @@
 
 # Checklist
 
+* Git(pureRN)[https://github.com/royjkim/React_Native-CheckLists]
+
 * Open App by Expo(Link)[https://expo.io/@roykim/checklist-expo]
 
 * Summary
@@ -151,6 +153,8 @@
 * * *
 
 # Chat
+
+* Git(pureRN)[https://github.com/royjkim/React-Native_ChatDemoFirebase]
 
 * Open App by Expo(Link)[https://expo.io/@roykim/chatdemo-expo]
 
