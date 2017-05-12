@@ -73,9 +73,9 @@
 
 # Checklist
 
-* Git(pureRN)[https://github.com/royjkim/React_Native-CheckLists]
+* Git(pureRN) - https://github.com/royjkim/React_Native-CheckLists
 
-* Open App by Expo(Link)[https://expo.io/@roykim/checklist-expo]
+* Open App by Expo - https://expo.io/@roykim/checklist-expo
 
 * Summary
     * made with React Native, Redux.
@@ -155,9 +155,9 @@
 
 # Chat
 
-* Git(pureRN)[https://github.com/royjkim/React-Native_ChatDemoFirebase]
+* Git(pureRN) - https://github.com/royjkim/React-Native_ChatDemoFirebase
 
-* Open App by Expo(Link)[https://expo.io/@roykim/chatdemo-expo]
+* Open App by Expo - https://expo.io/@roykim/chatdemo-expo
 
 * Summary
     * made with React Native, Redux, Firebase
@@ -230,11 +230,14 @@
     * curring pattern
     * encapsulation pattern
 
+* * *    
+
 # Calculate
+
 * Calculate
-    * Git(reactJS)[https://github.com/royjkim/Reactjs_Calculators]
-    * Git(pureRN)[https://github.com/royjkim/React-Native_Calculate_String]
-    * Open App by Expo(Link)[]
+    * Git(reactJS) - https://github.com/royjkim/Reactjs_Calculators
+    * Git(pureRN) - https://github.com/royjkim/React-Native_Calculate_String
+    * Open App by Expo - https://expo.io/@roykim/calculate-react-native-expo
     * Summary
         * made with reactJS with create-react-app
         * Focus
@@ -264,12 +267,10 @@
             * react-bootstrap
     * React Native(used skills, summary)
         * key points
-            * Reusable Components : presentational component
+            * Customized for RN(different from reactJS)
             * Understanding on LifeCycle
-            * Code without jsx
             * UI design with Flexbox
             * setState with updater function
-            * controlled components
             * Exception handling
     * Design Pattern(used skills, summary)
         * module pattern
