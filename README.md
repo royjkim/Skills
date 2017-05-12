@@ -234,43 +234,42 @@
 
 # Calculate
 
-* Calculate
-    * Git(reactJS) - https://github.com/royjkim/Reactjs_Calculators
-    * Git(pureRN) - https://github.com/royjkim/React-Native_Calculate_String
-    * Open App by Expo - https://expo.io/@roykim/calculate-react-native-expo
-    * Summary
-        * made with reactJS with create-react-app
-        * Focus
-            * coded with pure reactJS
-            * UI : react-bootstrap
-    * Libraries
-        * UI : react-bootstrap
-    * On Expo
-        * differences : speed
-    * JavaScript(used skills, summary)
-        * ES6
-            * Spread operator, Rest params
-            * Destructuring
-            * arrow function
-            * Template literals
-            * Dynamic key of object
-        * ES7
-            * Object spread
-    * ReactJS(used skills, summary)
-        * key points
-            * Regular expression
-            * Understanding on LifeCycle
-            * setState with updater function
-            * controlled components
-            * Exception handling
-        * UI
-            * react-bootstrap
-    * React Native(used skills, summary)
-        * key points
-            * Customized for RN(different from reactJS)
-            * Understanding on LifeCycle
-            * UI design with Flexbox
-            * setState with updater function
-            * Exception handling
-    * Design Pattern(used skills, summary)
-        * module pattern
+ * Git(reactJS) - https://github.com/royjkim/Reactjs_Calculators
+ * Git(pureRN) - https://github.com/royjkim/React-Native_Calculate_String
+ * Open App by Expo - https://expo.io/@roykim/calculate-react-native-expo
+ * Summary
+     * made with reactJS with create-react-app
+     * Focus
+         * coded with pure reactJS
+         * UI : react-bootstrap
+ * Libraries
+     * UI : react-bootstrap
+ * On Expo
+     * differences : speed
+ * JavaScript(used skills, summary)
+     * ES6
+         * Spread operator, Rest params
+         * Destructuring
+         * arrow function
+         * Template literals
+         * Dynamic key of object
+     * ES7
+         * Object spread
+ * ReactJS(used skills, summary)
+     * key points
+         * Regular expression
+         * Understanding on LifeCycle
+         * setState with updater function
+         * controlled components
+         * Exception handling
+     * UI
+         * react-bootstrap
+ * React Native(used skills, summary)
+     * key points
+         * Customized for RN(different from reactJS)
+         * Understanding on LifeCycle
+         * UI design with Flexbox
+         * setState with updater function
+         * Exception handling
+ * Design Pattern(used skills, summary)
+     * module pattern
