@@ -166,7 +166,11 @@
 
 * Chat App on iPhone
 
-![Chat App on iPhone](https://github.com/royjkim/Skills/blob/master/ChatApp_Expo.gif)
+![Chat App on iPhone](https://github.com/royjkim/Skills/blob/master/ChatApp_Expo_1.gif)
+
+![Chat App on iPhone](https://github.com/royjkim/Skills/blob/master/ChatApp_Expo_2.gif)
+
+![Chat App on iPhone](https://github.com/royjkim/Skills/blob/master/ChatApp_Expo_3.gif)
 
 * Summary
     * made with React Native, Redux, Firebase
