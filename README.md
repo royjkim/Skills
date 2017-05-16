@@ -2,7 +2,7 @@
 1. [Skills](#skills)
 2. [Projects : Checklist](#checklist)
 3. [Projects : Chat App](#chat)
-4. [Projects : String Calculate](#calculate)
+4. [Projects : String Calculator](#calculator)
 
 # Skills
 
@@ -10,12 +10,11 @@
     * Redux : redux, react-redux, redux-thunk, redux-logger, remote-redux-devtools
     * Data : reselect, normalizr, lodash
     * Debugger : chrome(default), reactotron
-    * UI : react-native-elements
+    * UI : native-base, react-native-elements, shoutem, expo
     * Map : react-native-maps(airbnb)
     * Etc : react-native-firestack, react-native-router-flux
     * Reviewed
-        * Redux : redux-actions, redux-saga, redux-orm
-        * UI : NativeBase, shoutem
+        * Redux : redux-actions, redux-saga, redux-orm, Ducks
         * Data : immutable.js, typescript
         * Etc : react-native-background-timer, react-native-navbar
 * Focus
@@ -73,9 +72,13 @@
 
 # Checklist
 
-* Git(pureRN) - https://github.com/royjkim/React_Native-CheckLists
+* [Open App on Expo](https://expo.io/@roykim/checklist-expo)
 
-* Open App by Expo - https://expo.io/@roykim/checklist-expo
+* ![Checklist App on iPhone - 1/3](https://github.com/royjkim/Skills/blob/master/Caculator_Expo_1.gif)
+
+* ![Checklist App on iPhone - 2/3](https://github.com/royjkim/Skills/blob/master/Caculator_Expo_2.gif)
+
+* ![Checklist App on iPhone - 3/3](https://github.com/royjkim/Skills/blob/master/Caculator_Expo_3.gif)
 
 * Summary
     * made with React Native, Redux.
@@ -155,9 +158,11 @@
 
 # Chat
 
-* Git(pureRN) - https://github.com/royjkim/React-Native_ChatDemoFirebase
+* [Git(pureRN)](https://github.com/royjkim/React-Native_ChatDemoFirebase) 
 
-* Open App by Expo - https://expo.io/@roykim/chatdemo-expo
+* [Open App on Expo](https://expo.io/@roykim/chatdemo-expo)
+
+* ![Chat App on iPhone](https://github.com/royjkim/Skills/blob/master/ChatApp_Expo.gif)
 
 * Summary
     * made with React Native, Redux, Firebase
@@ -168,10 +173,9 @@
         * disable shallow render to realtime update
 * Libraries
     * Redux : redux, react-redux, redux-thunk, redux-logger, remote-redux-devtools
-    * Data : load from firebase
+    * Data : load from Firebase
     * Debugger : chrome(default), remote-redux-devtools
-    * UI : @shoutem
-    * Firebase
+    * UI : shoutem
 * Data Structure
     * each unique id is assigned from firebase’s unique key.
     * shallow copy, shallow merge.
@@ -232,18 +236,23 @@
 
 * * *    
 
-# Calculate
+# Calculator
 
- * Git(reactJS) - https://github.com/royjkim/Reactjs_Calculators
- * Git(pureRN) - https://github.com/royjkim/React-Native_Calculate_String
- * Open App by Expo - https://expo.io/@roykim/calculate-react-native-expo
+ * [Git(reactJS)](https://github.com/royjkim/Reactjs_Calculators)
+ 
+ * [Git(pureRN)](https://github.com/royjkim/React-Native_Calculate_String)
+ 
+ * [Open App by Expo](https://expo.io/@roykim/calculate-react-native-expo)
+ 
+ * ![Calculator App on iPhone](https://github.com/royjkim/Skills/blob/master/Caculator_Expo.gif)
+ 
  * Summary
      * made with reactJS with create-react-app
      * Focus
-         * coded with pure reactJS
-         * UI : react-bootstrap
+         * coded with pure reactJS, RN
+         * UI : react-bootstrap(reactJS), native-base(RN)
  * Libraries
-     * UI : react-bootstrap
+     * UI : react-bootstrap(reactJS), native-base(RN)
  * On Expo
      * differences : speed
  * JavaScript(used skills, summary)
@@ -271,5 +280,10 @@
          * UI design with Flexbox
          * setState with updater function
          * Exception handling
+         * Replace ListView with List of native-base
+      * UI : native-base
+          * Floating action buttons
+          * Toast
+          * Drawer
  * Design Pattern(used skills, summary)
      * module pattern
