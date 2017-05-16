@@ -240,6 +240,8 @@
 
  * [Git(reactJS)](https://github.com/royjkim/Reactjs_Calculators)
 
+ * ![Calculator on Web](https://github.com/royjkim/Skills/blob/master/Calculator_Web.gif)
+
  * [Git(pureRN)](https://github.com/royjkim/React-Native_Calculate_String)
 
  * [Open App by Expo](https://expo.io/@roykim/calculate-react-native-expo)
