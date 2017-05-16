@@ -165,7 +165,8 @@
 * [Open App on Expo](https://expo.io/@roykim/chatdemo-expo)
 
 * Chat App on iPhone
-  ![Chat App on iPhone](https://github.com/royjkim/Skills/blob/master/ChatApp_Expo.gif)
+
+![Chat App on iPhone](https://github.com/royjkim/Skills/blob/master/ChatApp_Expo.gif)
 
 * Summary
     * made with React Native, Redux, Firebase
@@ -246,10 +247,12 @@
  * [Open App on Expo](https://expo.io/@roykim/calculate-react-native-expo)
 
  * Calculator on Web
-    ![Calculator on Web](https://github.com/royjkim/Skills/blob/master/Calculator_Web.gif)
+
+![Calculator on Web](https://github.com/royjkim/Skills/blob/master/Calculator_Web.gif)
 
  * Calculator App on iPhone
-    ![Calculator App on iPhone](https://github.com/royjkim/Skills/blob/master/Calculator_Expo.gif)
+
+![Calculator App on iPhone](https://github.com/royjkim/Skills/blob/master/Calculator_Expo.gif)
 
  * Summary
      * made with reactJS with create-react-app
