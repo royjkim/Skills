@@ -72,13 +72,15 @@
 
 # Checklist
 
+* [Git(pureRN)](https://github.com/royjkim/React_Native-CheckLists)
+
 * [Open App on Expo](https://expo.io/@roykim/checklist-expo)
 
-* ![Checklist App on iPhone - 1/3](https://github.com/royjkim/Skills/blob/master/Checklist_Expo_1.gif)
+![Checklist App on iPhone - 1/3](https://github.com/royjkim/Skills/blob/master/Checklist_Expo_1.gif)
 
-* ![Checklist App on iPhone - 2/3](https://github.com/royjkim/Skills/blob/master/Checklist_Expo_2.gif)
+![Checklist App on iPhone - 2/3](https://github.com/royjkim/Skills/blob/master/Checklist_Expo_2.gif)
 
-* ![Checklist App on iPhone - 3/3](https://github.com/royjkim/Skills/blob/master/Checklist_Expo_3.gif)
+![Checklist App on iPhone - 3/3](https://github.com/royjkim/Skills/blob/master/Checklist_Expo_3.gif)
 
 * Summary
     * made with React Native, Redux.
@@ -162,7 +164,8 @@
 
 * [Open App on Expo](https://expo.io/@roykim/chatdemo-expo)
 
-* ![Chat App on iPhone](https://github.com/royjkim/Skills/blob/master/ChatApp_Expo.gif)
+* Chat App on iPhone
+  ![Chat App on iPhone](https://github.com/royjkim/Skills/blob/master/ChatApp_Expo.gif)
 
 * Summary
     * made with React Native, Redux, Firebase
@@ -238,15 +241,15 @@
 
 # Calculator
 
- * [Git(reactJS)](https://github.com/royjkim/Reactjs_Calculators)
+ * [Git(reactJS)](https://github.com/royjkim/Reactjs_Calculators) / [Git(pureRN)](https://github.com/royjkim/React-Native_Calculate_String)
 
- * ![Calculator on Web](https://github.com/royjkim/Skills/blob/master/Calculator_Web.gif)
+ * [Open App on Expo](https://expo.io/@roykim/calculate-react-native-expo)
 
- * [Git(pureRN)](https://github.com/royjkim/React-Native_Calculate_String)
+ * Calculator on Web
+    ![Calculator on Web](https://github.com/royjkim/Skills/blob/master/Calculator_Web.gif)
 
- * [Open App by Expo](https://expo.io/@roykim/calculate-react-native-expo)
-
- * ![Calculator App on iPhone](https://github.com/royjkim/Skills/blob/master/Calculator_Expo.gif)
+ * Calculator App on iPhone
+    ![Calculator App on iPhone](https://github.com/royjkim/Skills/blob/master/Calculator_Expo.gif)
 
  * Summary
      * made with reactJS with create-react-app
