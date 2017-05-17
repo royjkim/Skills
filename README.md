@@ -238,7 +238,7 @@
 
 # Calculator
 
- * [Git(reactJS)](https://github.com/royjkim/Reactjs_Calculators) / [Git(pureRN)](https://github.com/royjkim/React-Native_Calculate_String)
+ * [Git(pureRN)](https://github.com/royjkim/React-Native_Calculate_String)
 
  * [Open App on Expo](https://expo.io/@roykim/calculate-react-native-expo-2)
 
