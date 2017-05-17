@@ -78,10 +78,6 @@
 
 ![Checklist App on iPhone - 1/3](https://github.com/royjkim/Skills/blob/master/Checklist_Expo_1.gif)
 
-![Checklist App on iPhone - 2/3](https://github.com/royjkim/Skills/blob/master/Checklist_Expo_2.gif)
-
-![Checklist App on iPhone - 3/3](https://github.com/royjkim/Skills/blob/master/Checklist_Expo_3.gif)
-
 * Summary
     * made with React Native, Redux.
     * Focus
@@ -167,10 +163,6 @@
 * Chat App on iPhone
 
 ![Chat App on iPhone](https://github.com/royjkim/Skills/blob/master/Chat_Expo_1.gif)
-
-![Chat App on iPhone](https://github.com/royjkim/Skills/blob/master/Chat_Expo_2.gif)
-
-![Chat App on iPhone](https://github.com/royjkim/Skills/blob/master/Chat_Expo_3.gif)
 
 * Summary
     * made with React Native, Redux, Firebase
