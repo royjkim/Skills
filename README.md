@@ -3,6 +3,7 @@
 2. [Projects : Checklist](#checklist)
 3. [Projects : Chat App](#chat)
 4. [Projects : String Calculator](#calculator)
+5. [Project : Graph - Visualization](#graph)
 
 # Skills
 
@@ -291,3 +292,13 @@
           * Drawer
  * Design Pattern(used skills, summary)
      * module pattern
+
+
+# Graph
+
+* [Git(pureRN)](https://github.com/royjkim/ReactJS-d3-demo-1)
+
+![Graph_1](https://github.com/royjkim/ReactJS-d3-demo-1/blob/master/graph_1.png)
+
+
+![Graph_2](https://github.com/royjkim/ReactJS-d3-demo-1/blob/master/graph_2.png)
