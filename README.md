@@ -1,10 +1,11 @@
-vanilla vanilla React Native# Table of Contents
+# Table of Contents
 1. [Skills](#skills)
 2. [Projects : Checklist](#checklist)
 3. [Projects : Chat App](#chat)
 4. [Projects : String Calculator](#calculator)
 5. [Project : Svg](#svg)
 6. [Project : DOM Control](#domcontrol)
+7. [Project : Visualization - D3](#visualization)
 
 # Skills
 
@@ -12,12 +13,14 @@ vanilla vanilla React Native# Table of Contents
     * Redux : redux, react-redux, redux-thunk, redux-logger, remote-redux-devtools
     * Data : reselect, normalizr, lodash
     * Debugger : chrome(default), reactotron
-    * UI : native-base, react-native-elements, shoutem, expo
+    * UI : native-base, react-native-elements, shoutem, expo, bootstrap, react-bootstrap
+    * Visualization : d3, svg, react-native-svg
     * Map : react-native-maps(airbnb)
     * Etc : react-native-firestack, react-native-router-flux
     * Reviewed
         * Redux : redux-actions, redux-saga, redux-orm, Ducks
         * Data : immutable.js, typescript
+        * Visualization : react-d3
         * Etc : react-native-background-timer, react-native-navbar
 * Focus
     * coded with vanilla RN
@@ -78,7 +81,7 @@ vanilla vanilla React Native# Table of Contents
 
 * [Open App on Expo](https://expo.io/@roykim/checklist-expo)
 
-* [▼ Captures : App on iPhone]
+* ▼ Captures : App on iPhone
 
 ![Checklist App on iPhone - 1/3](https://github.com/royjkim/Skills/blob/master/Checklist_Expo_1.gif)
 
@@ -164,7 +167,7 @@ vanilla vanilla React Native# Table of Contents
 
 * [Open App on Expo](https://expo.io/@roykim/chatdemo-expo)
 
-* [▼ Captures : Chat App on iPhone]
+* ▼ Captures : Chat App on iPhone
 
 ![Chat App on iPhone](https://github.com/royjkim/Skills/blob/master/Chat_Expo_1.gif)
 
@@ -246,11 +249,11 @@ vanilla vanilla React Native# Table of Contents
 
  * [Open App on Expo](https://expo.io/@roykim/calculate-react-native-expo-2)
 
- * [▼ Captures : Calculator on Web]
+ * ▼ Captures : Calculator on Web
 
 ![Captures : Calculator on Web](https://github.com/royjkim/Skills/blob/master/Calculator_Web.gif)
 
- * [▼ Captures : App on iPhone]
+ * ▼ Captures : App on iPhone
 
 ![Calculator App on iPhone](https://github.com/royjkim/Skills/blob/master/Calculator_Expo.gif)
 
@@ -296,6 +299,7 @@ vanilla vanilla React Native# Table of Contents
  * Design Pattern(used skills, summary)
      * module pattern
 
+* * *   
 
 # Svg
 
@@ -303,7 +307,7 @@ vanilla vanilla React Native# Table of Contents
 
 * [Open App on Expo](https://expo.io/@roykim/bar-chart-svg-expo)
 
-* [▼ Captures : App on iPhone]
+* ▼ Captures : App on iPhone
 
 ![BarChart](https://github.com/royjkim/React-Native-bar-chart-svg-expo/blob/master/barChart.gif)
 
@@ -329,9 +333,11 @@ vanilla vanilla React Native# Table of Contents
           * find equal interval on each bars
           * text node is inserted just onetime
 
+* * *   
+
 # DOMControl
 
-* [▼ Captures : App on iPhone]
+* ▼ Captures : App on iPhone
 
 ![DOMControl](https://github.com/royjkim/Skills/blob/master/domControl.gif)
 
@@ -342,7 +348,7 @@ vanilla vanilla React Native# Table of Contents
           * Works : Chrome, Safari, Firefox, WebView(Google FB, KakaoTalk), UC Browser(PC only)
               * Partially works : In App Browsers
               * Unsupported : UC Browser(Mobile), Samsung Browser, Opera(Coast, Mini), QQ Browser, etc.
-              * Devices(Verified) : iPhone 5 ~ 8, GalaxyS5 ~ S8+, GalaxyNote4, GalaxyNote Edge, Pixel, NEXUS, LUNA, LG Gpro2, etc.
+              * Devices(verified) : iPhone 5 ~ 8, GalaxyS5 ~ S8+, GalaxyNote4, GalaxyNote Edge, Pixel, NEXUS, LUNA, LG Gpro2, etc.
           * new text/image over originals at similar size and position
           * animations on new text/image and restore it
           * works based on the web standard
@@ -367,3 +373,27 @@ vanilla vanilla React Native# Table of Contents
       * Self defining function
       * call back pattern
       * encapsulation
+
+* * *   
+
+# Visualization
+
+* [Git(vanilla JS) - updating](???)
+
+* ▼ Captures : App on Web (updating)
+
+![Visualization - updating](??)
+
+  * Summary
+      * made with vanilla JS
+      * Focus
+          * coded with vanilla JS and d3
+          * make functions separate and reusable
+          * reset makes whole data different from existing one
+          * on bigger number, the color of bar is more bright
+  * Libraries
+      * d3(v4.x), bootstrap(v3.x), jQuery(v3.x)
+  * JavaScript(used skills, summary)
+      * Creates an element with the specified namespace URI
+      * Make custom functions for better performace
+          * message delay for user recoginition
