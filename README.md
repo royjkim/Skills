@@ -313,6 +313,8 @@ vanilla vanilla React Native# Table of Contents
           * make functions separate and reusable
           * works in RN WebView
           * dynamic interval between bars on various device : flexbox used
+          * reset makes whole data different from existing one
+          * on bigger number, the color of bar is more bright
           * etc : bootstrap(v3.x), jQuery(v3.x)
   * Libraries
       * bootstrap(v3.x), jQuery(v3.x)
