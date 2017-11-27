@@ -336,7 +336,7 @@ vanilla vanilla React Native# Table of Contents
 ![DOMControl](https://github.com/royjkim/Skills/blob/master/domControl.gif)
 
   * Summary
-      * made by JavaScript
+      * a JS library for HTML(external)
       * Focus
           * support Mobile only : multi browsers(including devices)
           * Works : Chrome, Safari, Firefox, WebView(Google FB, KakaoTalk), UC Browser(PC only)
@@ -357,7 +357,7 @@ vanilla vanilla React Native# Table of Contents
       * jQuery, requireJS, scrollMagic, TweenMax, splitText, imagesloaded
   * JavaScript(used skills, summary)
       * custom elements used
-      * for better compatibility ES5 used
+      * for better compatibility disable to use ES6, ES7
       * sustaining existing code architectures
       * for faster and less resources, performance optimized
   * Design Pattern(used skills, summary)
