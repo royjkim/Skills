@@ -1,9 +1,9 @@
-# Table of Contents
+vanilla vanilla React Native# Table of Contents
 1. [Skills](#skills)
 2. [Projects : Checklist](#checklist)
 3. [Projects : Chat App](#chat)
 4. [Projects : String Calculator](#calculator)
-5. [Project : Graph - Visualization](#graph)
+5. [Project : Svg](#svg)
 
 # Skills
 
@@ -19,7 +19,7 @@
         * Data : immutable.js, typescript
         * Etc : react-native-background-timer, react-native-navbar
 * Focus
-    * coded with pureRN
+    * coded with vanilla RN
     * Redux : separate Smart component, presentational component
     * Flatten objects : able to convert and restore
     * Reduce computation with memoize pattern
@@ -73,16 +73,18 @@
 
 # Checklist
 
-* [Git(pureRN)](https://github.com/royjkim/React_Native-CheckLists)
+* [Git(vanilla RN)](https://github.com/royjkim/React_Native-CheckLists)
 
 * [Open App on Expo](https://expo.io/@roykim/checklist-expo)
+
+* [▼ Captures : App on iPhone]
 
 ![Checklist App on iPhone - 1/3](https://github.com/royjkim/Skills/blob/master/Checklist_Expo_1.gif)
 
 * Summary
     * made with React Native, Redux.
     * Focus
-        * coded with pureRN
+        * coded with vanilla RN
         * Redux : separate Smart component, presentational component
         * Flatten objects : able to convert and restore
         * Reduce computation with memoize pattern.
@@ -130,7 +132,7 @@
         * setState with updater function
         * controlled components
     * Navigate
-        * Navigate with pureRN.
+        * Navigate with vanilla RN.
         * Prevent navigate when editing
             * including tab navigate.
         * Separate Each navigate by Tabs.
@@ -157,18 +159,18 @@
 
 # Chat
 
-* [Git(pureRN)](https://github.com/royjkim/React-Native_ChatDemoFirebase)
+* [Git(vanilla RN)](https://github.com/royjkim/React-Native_ChatDemoFirebase)
 
 * [Open App on Expo](https://expo.io/@roykim/chatdemo-expo)
 
-* Chat App on iPhone
+* [▼ Captures : Chat App on iPhone]
 
 ![Chat App on iPhone](https://github.com/royjkim/Skills/blob/master/Chat_Expo_1.gif)
 
 * Summary
     * made with React Native, Redux, Firebase
     * Focus
-        * coded with pureRN
+        * coded with vanilla RN
         * Redux : separate Smart component, presentational component
         * use unique key made by Firebase as own unique key.
         * disable shallow render to realtime update
@@ -219,7 +221,7 @@
         * UI design with Flexbox
         * minimize the use of setState and controlled components to speed up
     * Navigate
-        * Navigate with pureRN.
+        * Navigate with vanilla RN.
         * Prevent swipe back.
         * Transfer data with navigator and redux.
     * UI
@@ -239,22 +241,22 @@
 
 # Calculator
 
- * [Git(pureRN)](https://github.com/royjkim/React-Native_Calculate_String)
+ * [Git(vanilla RN)](https://github.com/royjkim/React-Native_Calculate_String)
 
  * [Open App on Expo](https://expo.io/@roykim/calculate-react-native-expo-2)
 
- * Calculator on Web
+ * [▼ Captures : Calculator on Web]
 
-![Calculator on Web](https://github.com/royjkim/Skills/blob/master/Calculator_Web.gif)
+![Captures : Calculator on Web](https://github.com/royjkim/Skills/blob/master/Calculator_Web.gif)
 
- * Calculator App on iPhone
+ * [▼ Captures : App on iPhone]
 
 ![Calculator App on iPhone](https://github.com/royjkim/Skills/blob/master/Calculator_Expo.gif)
 
  * Summary
      * made with reactJS with create-react-app
      * Focus
-         * coded with pure reactJS, RN
+         * coded with vanilla : reactJS, RN
          * UI : react-bootstrap(reactJS), native-base(RN)
  * Libraries
      * UI : react-bootstrap(reactJS), native-base(RN)
@@ -294,11 +296,32 @@
      * module pattern
 
 
-# Graph
+# Svg
 
-* [Git(pureRN)](https://github.com/royjkim/ReactJS-d3-demo-1)
+* [Git(vanilla JS)](https://github.com/royjkim/React-Native-bar-chart-svg-expo)
 
-![Graph_1](https://github.com/royjkim/ReactJS-d3-demo-1/blob/master/graph_1.png)
+* [Open App on Expo](https://expo.io/@roykim/bar-chart-svg-expo)
 
+* [▼ Captures : App on iPhone]
 
-![Graph_2](https://github.com/royjkim/ReactJS-d3-demo-1/blob/master/graph_2.png)
+![BarChart](https://github.com/royjkim/React-Native-bar-chart-svg-expo/blob/master/barChart.gif)
+
+  * Summary
+      * made with vanilla JS
+      * Focus
+          * coded with vanilla JS, SVG
+          * make functions separate and reusable
+          * works in RN WebView
+          * dynamic interval between bars on various device : flexbox used
+          * etc : bootstrap(v3.x), jQuery(v3.x)
+  * Libraries
+      * bootstrap(v3.x), jQuery(v3.x)
+  * On Expo
+      * differences : nothing
+  * JavaScript(used skills, summary)
+      * Creates an element with the specified namespace URI
+      * Make custom functions for better performace
+          * reduces calling setAttributeNS during coding
+          * message delay for user recoginition
+          * find equal interval on each bars
+          * text node is inserted just onetime
