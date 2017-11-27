@@ -3,7 +3,7 @@
 2. [Projects : Checklist](#checklist)
 3. [Projects : Chat App](#chat)
 4. [Projects : String Calculator](#calculator)
-5. [Project : Svg](#svg)
+5. [Project : Bar Chart - Svg](#svg)
 6. [Project : DOM Control](#domcontrol)
 7. [Project : Visualization - D3](#visualization)
 
