@@ -22,11 +22,15 @@
         * Data : immutable.js, typescript
         * Visualization : react-d3
         * Etc : react-native-background-timer, react-native-navbar
+        * Framework : vue.js, next.js, angularJS(1.x), ionic(1.x)
 * Focus
-    * coded with vanilla RN
+    * codes with vanilla JS and vanilla RN
     * Redux : separate Smart component, presentational component
     * Flatten objects : able to convert and restore
     * Reduce computation with memoize pattern
+    * CSS : CSS3, sass
+    * Browser Optimization(iOS, Android) : Chrome, Safari, Firefox, WebView(Google, FB, KakaoTalk, RN), etc.
+    * Custom Components used : Custom elements, React.js, RN
 * Design Pattern
     * Self defining function
     * call back pattern
@@ -72,6 +76,8 @@
     * Atom(nuclide), Expo XDE
 * Github
     * Create a repo, Fork a repo, branch merge
+* Etc
+    * codewars : https://www.codewars.com/users/royj/
 
 * * *    
 
@@ -352,7 +358,7 @@
           * new text/image over originals at similar size and position
           * animations on new text/image and restore it
           * works based on the web standard
-          * handling JS and CSS at the same time
+          * handling JS and CSS(with sass) at the same time
           * responding to unexpected layout changes
           * foreign languages support : Korean, English, Japanese, Chinese and etc.
           * Reviewed
