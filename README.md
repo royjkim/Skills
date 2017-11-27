@@ -385,21 +385,17 @@
 
 # Visualization
 
-* [Git(vanilla JS) - updating](???)
+* preparing to update
 
-* ▼ Captures : App on Web (updating)
-
-![Visualization - updating](??)
-
-  * Summary
-      * made with vanilla JS and d3
-      * Focus
-          * make functions separate and reusable
-          * reset makes whole data different from existing one
-          * on bigger number, the color of bar is more bright
-  * Libraries
-      * d3(v4.x), bootstrap(v3.x), jQuery(v3.x)
-  * JavaScript(used skills, summary)
-      * Creates an element with the specified namespace URI
-      * Make custom functions for better performace
-          * message delay for user recoginition
+* Summary
+    * made with vanilla JS and d3
+    * Focus
+        * make functions separate and reusable
+        * reset makes whole data different from existing one
+        * on bigger number, the color of bar is more bright
+* Libraries
+    * d3(v4.x), bootstrap(v3.x), jQuery(v3.x)
+* JavaScript(used skills, summary)
+    * Creates an element with the specified namespace URI
+    * Make custom functions for better performace
+        * message delay for user recoginition
