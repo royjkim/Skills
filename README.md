@@ -342,7 +342,7 @@ vanilla vanilla React Native# Table of Contents
           * Works : Chrome, Safari, Firefox, WebView(Google FB, KakaoTalk), UC Browser(PC only)
               * Partially works : In App Browsers
               * Unsupported : UC Browser(Mobile), Samsung Browser, Opera(Coast, Mini), QQ Browser, etc.
-              * Devices(Verified) : iPhone 5~8, GalaxyS5~S8+, GalaxyNote4, GalaxyNote Edge, Pixel, NEXUS, LUNA, LG Gpro2, etc.
+              * Devices(Verified) : iPhone 5 ~ 8, GalaxyS5 ~ S8+, GalaxyNote4, GalaxyNote Edge, Pixel, NEXUS, LUNA, LG Gpro2, etc.
           * new text/image over originals at similar size and position
           * animations on new text/image and restore it
           * works based on the web standard
