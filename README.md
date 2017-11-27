@@ -4,6 +4,7 @@ vanilla vanilla React Native# Table of Contents
 3. [Projects : Chat App](#chat)
 4. [Projects : String Calculator](#calculator)
 5. [Project : Svg](#svg)
+6. [Project : DOM Control](#domcontrol)
 
 # Skills
 
@@ -327,3 +328,43 @@ vanilla vanilla React Native# Table of Contents
           * message delay for user recoginition
           * find equal interval on each bars
           * text node is inserted just onetime
+
+# DOMControl
+
+* [Git](????)
+
+* [▼ Captures : App on iPhone]
+
+![DOMControl](???)
+
+  * Summary
+      * made by JavaScript
+      * Focus
+          * support Mobile only : multi browsers(including devices)
+          * Works : Chrome, Safari, Firefox, WebView(Google), FB, KakaoTalk, UC Browser(PC only)
+              * Partially works : In App Browsers
+              * Unsupported : UC Browser(Mobile), Samsung Browser, Opera(Coast, Mini), QQ Browser
+          * new text/image on same size, same position over origins
+          * animations on new text/image and restore it
+          * responding to unexpected layout changes
+          * works based on the web standard
+          * handling JS and CSS at the same time
+          * foreign languages support : Korean, English, Japanese, Chinese and etc.
+          * Reviewed
+              * the result of real device is different from simulator : iOS, Android
+              * responding to latest browser updates
+              * experiences on cross-browsing
+  * Libraries
+      * jQuery, requireJS, scrollMagic, TweenMax, splitText, imagesloaded
+  * JavaScript(used skills, summary)
+      * custom elements used
+      * for better compatibility ES5 used
+      * sustaining existing code architectures
+      * for faster and less resources, performance optimized
+  * Design Pattern(used skills, summary)
+      * module pattern
+      * delegation pattern
+      * proxy pattern
+      * Self defining function
+      * call back pattern
+      * encapsulation
