@@ -331,27 +331,26 @@ vanilla vanilla React Native# Table of Contents
 
 # DOMControl
 
-* [Git](????)
-
 * [▼ Captures : App on iPhone]
 
-![DOMControl](???)
+![DOMControl](https://github.com/royjkim/Skills/blob/master/domControl.gif)
 
   * Summary
       * made by JavaScript
       * Focus
           * support Mobile only : multi browsers(including devices)
-          * Works : Chrome, Safari, Firefox, WebView(Google), FB, KakaoTalk, UC Browser(PC only)
+          * Works : Chrome, Safari, Firefox, WebView(Google FB, KakaoTalk), UC Browser(PC only)
               * Partially works : In App Browsers
-              * Unsupported : UC Browser(Mobile), Samsung Browser, Opera(Coast, Mini), QQ Browser
-          * new text/image on same size, same position over origins
+              * Unsupported : UC Browser(Mobile), Samsung Browser, Opera(Coast, Mini), QQ Browser, etc.
+              * Devices(Verified) : iPhone 5~8, GalaxyS5~S8+, GalaxyNote4, GalaxyNote Edge, Pixel, NEXUS, LUNA, LG Gpro2, etc.
+          * new text/image over originals at similar size and position
           * animations on new text/image and restore it
-          * responding to unexpected layout changes
           * works based on the web standard
           * handling JS and CSS at the same time
+          * responding to unexpected layout changes
           * foreign languages support : Korean, English, Japanese, Chinese and etc.
           * Reviewed
-              * the result of real device is different from simulator : iOS, Android
+              * test various devices(not simulators) and browsers
               * responding to latest browser updates
               * experiences on cross-browsing
   * Libraries
