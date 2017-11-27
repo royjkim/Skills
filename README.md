@@ -86,7 +86,7 @@
 ![Checklist App on iPhone - 1/3](https://github.com/royjkim/Skills/blob/master/Checklist_Expo_1.gif)
 
 * Summary
-    * made with React Native, Redux.
+    * made with React Native, Redux
     * Focus
         * coded with vanilla RN
         * Redux : separate Smart component, presentational component
@@ -385,9 +385,8 @@
 ![Visualization - updating](??)
 
   * Summary
-      * made with vanilla JS
+      * made with vanilla JS and d3
       * Focus
-          * coded with vanilla JS and d3
           * make functions separate and reusable
           * reset makes whole data different from existing one
           * on bigger number, the color of bar is more bright
