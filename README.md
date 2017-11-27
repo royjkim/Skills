@@ -315,7 +315,8 @@
 
 * ▼ Captures : App on iPhone
 
-![BarChart](https://github.com/royjkim/React-Native-bar-chart-svg-expo/blob/master/barChart.gif)
+![BarChart](https://github.com/royjkim/Skills/blob/master/BarChart_Svg.gif)
+
 
   * Summary
       * made with vanilla JS
