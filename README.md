@@ -366,11 +366,12 @@
           * animations on adding / removing / reset data
           * sort states(3) : not ordered, ascended, descended
           * if the value is getting higher, the color is close to blue
+          * d3.scale.linear and d3.scale.orinal is used
   * Libraries
       * d3(v3.x), bootstrap(v3.x)
   * On Expo
       * differences : nothing
-  * JavaScript(used skills, summary)
+  * Details(used skills, summary)
       * label is added on inner bar or above it
       * the range of the number of bars is 5 ~ 23
       * the target of removing is first data of current sort state
@@ -378,6 +379,8 @@
       * on 'not ordered' sort state, bar is getting back its original position even though new data added on ascending/descending state
       * assigning proper width and height on svg
       * calculate proper interval on each bars
+      * d3.scale.ordinal is used for discrete data because the data deleted is not done at fixed address
+      * d3.scale.linear is used for calculating position and size
       * Make custom functions for better performace
           * many work is separated as functions
           * button events are integrated
