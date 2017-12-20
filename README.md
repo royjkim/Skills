@@ -362,11 +362,11 @@
           * make functions separate and reusable
           * works in RN WebView
           * able to add / remove / reset data considering sort state
-          * size, width and interval is reponsive
-          * animations on adding / removing / reset data
           * sort states(3) : not ordered, ascended, descended
+          * animations on adding / removing / reset data
+          * size, width and interval are reponsive
+          * d3.scale.linear and d3.scale.orinal are used
           * if the value is getting higher, the color is close to blue
-          * d3.scale.linear and d3.scale.orinal is used
   * Libraries
       * d3(v3.x), bootstrap(v3.x)
   * On Expo
