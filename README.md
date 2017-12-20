@@ -4,8 +4,9 @@
 3. [Projects : Chat App](#chat)
 4. [Projects : String Calculator](#calculator)
 5. [Project : Bar Chart - Svg](#svg)
-6. [Project : DOM Control](#domcontrol)
-7. [Project : Visualization - D3](#visualization)
+6. [Project : D3 - Bar Chart](#d3-bar-chart)
+7. [Project : DOM Control](#domcontrol)
+8. [Project : Visualization - D3](#visualization)
 
 # Skills
 
@@ -336,9 +337,51 @@
       * Creates an element with the specified namespace URI
       * Make custom functions for better performace
           * reduces calling setAttributeNS during coding
-          * message delay for user recoginition
+          * message delay for user recognition
           * find equal interval on each bars
           * text node is inserted just onetime
+
+
+* * *   
+
+# D3-bar-chart
+
+* [Git(vanilla JS)](https://github.com/royjkim/d3-bar-chart-expo)
+
+* [Open App on Expo](https://exp.host/@roykim/d3-bar-chart-expo)
+
+* ▼ Captures : App on iPhone
+
+![D3-barChart](https://github.com/royjkim/Skills/blob/master/d3-barChart-1.gif)
+
+
+  * Summary
+      * made with JS and d3
+      * Focus
+          * coded with vanilla style
+          * make functions separate and reusable
+          * works in RN WebView
+          * able to add / remove / reset data considering sort state
+          * size, width and interval is reponsive
+          * animations on adding / removing / reset data
+          * sort states(3) : not ordered, ascended, descended
+          * if the value is getting higher, the color is close to blue
+  * Libraries
+      * d3(v3.x), bootstrap(v3.x)
+  * On Expo
+      * differences : nothing
+  * JavaScript(used skills, summary)
+      * label is added on inner bar or above it
+      * the range of the number of bars is 5 ~ 23
+      * the target of removing is first data of current sort state
+      * new data would be added on sorted position on ascending or descending sort state
+      * on 'not ordered' sort state, bar is getting back its original position even though new data added on ascending/descending state
+      * assigning proper width and height on svg
+      * calculate proper interval on each bars
+      * Make custom functions for better performace
+          * many work is separated as functions
+          * button events are integrated
+          * animations have delay and duration for user recognition
 
 * * *   
 
@@ -394,8 +437,8 @@
         * reset makes whole data different from existing one
         * on bigger number, the color of bar is more bright
 * Libraries
-    * d3(v4.x), bootstrap(v3.x), jQuery(v3.x)
+    * d3(v4.x), bootstrap(v3.x)
 * JavaScript(used skills, summary)
     * Creates an element with the specified namespace URI
     * Make custom functions for better performace
-        * message delay for user recoginition
+        * message delay for user recognition
